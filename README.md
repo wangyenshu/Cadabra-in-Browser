@@ -12,7 +12,7 @@ How to build:
 - run bash.sh
 
 Credit:
-- FriCAS: https://fricas.github.io/
+- Cadabra: https://cadabra.science/
 - Cheerpx: https://cheerpx.io/docs/getting-started
 - Cheerpx License: https://cheerpx.io/licensing
 - https://github.com/gzuidhof/coi-serviceworker
