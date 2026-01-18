@@ -15,7 +15,7 @@ RUN rm -f /etc/apt/sources.list.d/* && \
 
 RUN apt-get update && \
     apt-get install -y --no-install-recommends \
-    cadabra2 libgmpxx4ldbl \
+    cadabra2 libgmpxx4ldbl python3-sympy \
     && rm -rf /var/lib/apt/lists/*
     
 RUN mkdir -p /usr/lib/python3.11/dist-packages && \
